@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "161541075301",
+    "firebase_url": "https://httplearn.firebaseio.com",
+    "project_id": "httplearn",
+    "storage_bucket": "httplearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161541075301:android:3b11ccac4d743a40",
+        "android_client_info": {
+          "package_name": "com.Bidge.iDroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161541075301-1t0hdleflhroibjuo589v8jka3381l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD055dkLUNbgELQvr7bN2IU3b5i-7iBzzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161541075301:android:49c82a6f10bb78ac",
+        "android_client_info": {
+          "package_name": "com.bridge.idroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161541075301-1t0hdleflhroibjuo589v8jka3381l44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD055dkLUNbgELQvr7bN2IU3b5i-7iBzzQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

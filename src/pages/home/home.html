@@ -1,0 +1,22 @@
+<ion-header>
+
+  <ion-navbar color="primary">
+    <ion-title>The bridge news</ion-title>
+    <ion-buttons start>
+      <button ion-button icon-only (click)="next()">
+        <ion-icon name="information-circle"></ion-icon>
+      </button>
+    </ion-buttons>
+  </ion-navbar>
+
+</ion-header>
+<ion-content >
+  <ion-card *ngFor="let i of brnews">
+    <img [src]="i?.image" style="height: 200px; width:100%">
+    <ion-card-content>
+      <ion-card-title>
+        <p style="text-align:right;font-family: 'Times New Roman', Times, serif;font-size: 15px"><b>{{i?.shortdesc}}</b></p> <button ion-button clear  color="primary" (click)="detail(i)"> المزيد </button>
+      </ion-card-title>
+    </ion-card-content>
+    </ion-card>
+</ion-content>
